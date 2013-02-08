@@ -63,7 +63,9 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#505C63</string>
+				<string>#8e979d</string>
+				<key>background</key>
+				<string>#3a4044</string>
 			</dict>
 		</dict>
 		<dict>
